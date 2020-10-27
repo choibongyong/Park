@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyGCS</string>
+    <string name="button_connect">Connect</string>
+    <string name="button_disconnect">Disconnect</string>
+</resources>
